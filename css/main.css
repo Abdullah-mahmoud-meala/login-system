@@ -1,0 +1,74 @@
+.bg{
+    background-color: #24353F;
+}
+
+.login{
+background-color: #24353F;
+box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+
+h1,button{
+    color: #17a2b8    ;
+
+}
+p a{
+    color: white;
+    text-decoration: none;
+}
+
+p a:hover{
+    color: white;
+}
+p{
+    font-size: 17px;
+}
+ nav{
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+ }
+#loginBtn{
+    transition: all 0.5;
+    color: #17a2b8;
+    font-size: 18px;
+}
+ #loginBtn:hover{
+    background-color: #17a2b8;
+    color: white;
+ }
+nav a {
+    color: white;
+    text-decoration: none;
+}
+
+.mybtn a:hover{
+    color: white;
+
+}
+
+
+nav button{
+    background-color: transparent;
+    transition: all 0.3s;
+    
+}
+nav button a {
+    color: gray;
+}
+nav button a:hover{
+    color: white;
+
+}
+
+nav button:hover{
+    background-color: gold;
+}
+h3{
+    color: white;
+
+}
+
+.wlcSec{
+    background-color: #24353F;
+box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+align-items: center;
+}
+
